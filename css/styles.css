@@ -3,7 +3,7 @@ body {
 }
 
 div {
-  width: 49%;
+  width: 50%; /* First, ensure there is no gap in </div><div> */
   border: 1px solid black;
   box-sizing: border-box;
   text-align: center;
