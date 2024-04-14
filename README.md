@@ -23,4 +23,4 @@ If you use Prettier to format your HTML, it will, opinionatedly, "correct" your 
   ```
 
 
-Click [here](https://dciforks.github.io/inline-block/) for preview
+Click [here](https://funforks.github.io/inline-block/) for preview
